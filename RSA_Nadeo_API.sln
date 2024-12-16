@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_Nadeo_API", "RSA_Nadio_API\RSA_Nadeo_API.csproj", "{3916B66E-76A5-4845-AFBC-F0F7F1E6BF3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_Nadeo_Data", "RSA_Nadio_Data\RSA_Nadeo_Data.csproj", "{80596A70-2EC2-4DDD-BB77-35F21D50189A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_Nadeo_Public", "RSA_Nadio_Public\RSA_Nadeo_Public.csproj", "{5710DDA1-6426-40BF-AD43-59A6D7696AE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSA_Nadeo_Service", "RSA_Nadio_Service\RSA_Nadeo_Service.csproj", "{C71E0A3C-691A-49A6-B9B5-E503162223B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3916B66E-76A5-4845-AFBC-F0F7F1E6BF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3916B66E-76A5-4845-AFBC-F0F7F1E6BF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3916B66E-76A5-4845-AFBC-F0F7F1E6BF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3916B66E-76A5-4845-AFBC-F0F7F1E6BF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80596A70-2EC2-4DDD-BB77-35F21D50189A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80596A70-2EC2-4DDD-BB77-35F21D50189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80596A70-2EC2-4DDD-BB77-35F21D50189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80596A70-2EC2-4DDD-BB77-35F21D50189A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5710DDA1-6426-40BF-AD43-59A6D7696AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5710DDA1-6426-40BF-AD43-59A6D7696AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5710DDA1-6426-40BF-AD43-59A6D7696AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5710DDA1-6426-40BF-AD43-59A6D7696AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71E0A3C-691A-49A6-B9B5-E503162223B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71E0A3C-691A-49A6-B9B5-E503162223B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71E0A3C-691A-49A6-B9B5-E503162223B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71E0A3C-691A-49A6-B9B5-E503162223B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047A42C2-C701-4920-8D4C-E868FBE5B5F5}
+	EndGlobalSection
+EndGlobal
